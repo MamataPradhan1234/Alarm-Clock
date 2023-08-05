@@ -14,3 +14,27 @@ The Alarm Clock web application is a practical and versatile tool designed to he
 
 
 4.Snooze Functionality: When an alarm goes off, users have the option to snooze the alarm, providing them with a few extra minutes before the alarm triggers again.
+
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- A web browser (e.g. Google Chrome, Firefox, Safari)
+- An internet connection
+- A code editor (e.g. VS Code, Atom)
+
+### Installing
+
+1. Clone or download the repository to your local machine
+2. Open the project in your code editor
+3. Open the index.html file in your web browser to run the app
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
